@@ -85,3 +85,6 @@ https://www.cdc.gov/places/
 ---
 
 **Project developed using CDC PLACES data and Tableau Public.**
+## Tableau Public Dashboard
+
+[View Interactive Dashboard](https://public.tableau.com/app/profile/nanda.shiny.binu)
